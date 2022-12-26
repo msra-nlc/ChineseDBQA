@@ -1,5 +1,5 @@
 # ChineseDBQA
-In you use this dataset, please cite the following paper:
+If you use this dataset, please cite the following paper:
 
 @inproceedings{duan2016nlpcc,
   title={Overview of the NLPCC-ICCPOL 2016 Shared Task: Open Domain Chinese Question Answering},
